@@ -10,7 +10,7 @@
 ![Screenshot_30-4-2024_204342_localhost](https://github.com/e20455/wellbeing_tracker/assets/112505418/a755f6c3-ea74-4a04-926a-0c9abf1ebb6e)
 
 <h2>AddyourScores.html</h2>
-<p>Here the user can use the sliders to enter their scores, if the user wishes they may update these. Once the user clicks submit the scores will be added to local storage and a confirmation message will be shown.</p>
+<p>Here the user can use the sliders to enter their scores, the user can update these if they wish. Once the user clicks submit the scores will be added to local storage and a confirmation message will be shown.</p>
 ![Screenshot_30-4-2024_204853_localhost](https://github.com/e20455/wellbeing_tracker/assets/112505418/1f482ded-d895-47fa-a057-c25f183c8347)
 
 <h2>GraphofScores.html></h2>
